@@ -22,7 +22,7 @@ the game ends when you beat the dragon and get to the princess.
 -  Left mouse button - Shot arrows and slash with sword
 
   ## Images
-![game_menu](https://github.com/osherz19991/Game_Development_Final_Project/assets/100718762/934c9a32-67ff-40f8-a197-7c01f19b028f)
+![game_menu](https://github.com/osherz19991/Game_Development_Final_Project/assets/100718762/934c9a32-67ff-40f8-a197-7c01f19b028f | 951x450)
 ![game_town](https://github.com/osherz19991/Game_Development_Final_Project/assets/100718762/f9c1cf46-8464-403d-a66a-f55fb1e92f73)
 ![game_bar](https://github.com/osherz19991/Game_Development_Final_Project/assets/100718762/353bd933-454b-4d29-ba34-6ac0bd2bc021)
 ![game_chest](https://github.com/osherz19991/Game_Development_Final_Project/assets/100718762/6b4ecf4c-0a02-47fc-b865-71c712d5366f)
